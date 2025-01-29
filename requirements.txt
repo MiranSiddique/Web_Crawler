@@ -1,0 +1,9 @@
+beautifulsoup4
+requests
+network
+
+collections
+urllib.parse
+os
+re
+json
